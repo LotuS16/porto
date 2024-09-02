@@ -65,6 +65,11 @@ a {
     box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 5px;
 }
 
+.section-title{
+    margin: 1rem 0 4rem;
+    font-size: 2rem;
+}
+
 .pre-title {
     text-transform: uppercase;
     letter-spacing: .5rem;
@@ -167,4 +172,19 @@ nav ul li a {
     width: 50%;
     max-width: 300px;
     margin-right: 20px;
+}
+
+/* service section */
+#service{
+    background-color: var(--secondaryBackgroundColor);
+    padding: var(--sectionPadding);
+    
+}
+
+.service .pre-title{
+    margin: 0 auto;
+}
+
+.services-title{
+    
 }
