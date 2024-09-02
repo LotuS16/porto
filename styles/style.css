@@ -178,13 +178,12 @@ nav ul li a {
 #service{
     background-color: var(--secondaryBackgroundColor);
     padding: var(--sectionPadding);
-    
 }
 
-.service .pre-title{
+.services .pre-title{
     margin: 0 auto;
 }
 
 .services-title{
-    
+    text-align: center;
 }
